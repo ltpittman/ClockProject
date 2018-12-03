@@ -281,7 +281,6 @@ function draw() {
   ellipse(1400, 1070, 3, 3);
   //dots for the lower left hand corner
   ellipse(1800, 1100, 500, 500);
-  ellipse(1000,80, 350, 350);
   ellipse(100, 805, 3, 3);
   ellipse(30, 820, 3, 3);
   ellipse(180, 820, 3, 3);
