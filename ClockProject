@@ -279,7 +279,14 @@ function draw() {
   ellipse(1280, 1070, 3, 3);
   ellipse(1340, 1070, 3, 3);
   ellipse(1400, 1070, 3, 3);
-  fill(100,15,40, 23);
-	//ellipse(1800, 1100, 500, 500);
-
+  //dots for the lower left hand corner
+  ellipse(1800, 1100, 500, 500);
+  ellipse(1000,80, 350, 350);
+  ellipse(100, 805, 3, 3);
+  ellipse(30, 820, 3, 3);
+  ellipse(180, 820, 3, 3);
+  ellipse(250, 870, 3, 3); 
+  ellipse(290, 930, 3, 3);
+  ellipse(300, 1000, 3, 3);
+  ellipse(294, 1070, 3, 3);
 }
